@@ -8,4 +8,4 @@ longestSubArrLength([4, 2, 1, 20]) should return 2
 
 longestSubArrLength([2, 4, 3]) should return 3
 
-longestSubArrLength([1, 563, 585, 571, 90, 92, 94, 93, 91, 45]) should return 5
+longestSubArrLength([1, 1, 90, 90, 563, 585, 571, 90, 92, 94, 93, 91, 45]) should return 5
